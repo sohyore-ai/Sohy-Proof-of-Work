@@ -5,9 +5,9 @@
 
 Tracking experiments, shipped work, automation systems, and career-ready case studies.
 
-`role: BD` · 
-`mode: operator-in-progress ■■□□□` · 
-`status: building in public` · 
+`role: BD` 
+`mode: operator-in-progress ■■□□□` 
+`status: building in public` 
 `focus: work-intelligence`
 
 [./dashboard] [./activity] [./shipped] [./cases] [./automation]
