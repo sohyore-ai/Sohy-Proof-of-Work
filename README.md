@@ -1,10 +1,10 @@
-# Sohy-Proof-of-Work
+# sohy/proof-of-work
 
-An AI/AX trying hard pseudo-operator portfolio
-Tracking experiments, shipped work, automation systems, and career-ready case studies. 
+> Business Development × AI/AX Operations.  
+> Making work visible, repeatable, and automatable.
 
-[Work Dashboard]
-[Activity Heatmap]
-[Recent Shippped Work]
-[Case Studies]
-[Automation Logs]
+Tracking experiments, shipped work, automation systems, and career-ready case studies.
+
+`role: BD` · `mode: operator-in-progress ■■□□□` · `status: building in public` · `focus: work-intelligence`
+
+[./dashboard] [./activity] [./shipped] [./cases] [./automation]
